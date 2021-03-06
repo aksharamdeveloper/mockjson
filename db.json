@@ -1,34 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-1025648175167081~6353058692",
+         "banner_id":"ca-app-pub-1025648175167081/4536579990",
+         "interstitial_id":"ca-app-pub-1025648175167081/5350134061",
+         "native_id":"ca-app-pub-1025648175167081/4037052399",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"381184429817240_381185153150501",
+         "interstitial_id":"381184429817240_381185746483775",
+          "interstitial_id1":"381184429817240_432987524636930",
+          "interstitial_id2":"381184429817240_381185746483775",
+         "native_id":"381184429817240_381184826483867",
+         "native_banner_id":"381184429817240_381185439817139",
+         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "status":"true",
+         "splash_ads":"false"
+      }
+   ]
 }
